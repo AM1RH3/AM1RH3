@@ -32,6 +32,11 @@ Programmer & Devloper
   <a href="https://www.linkedin.com/in/amirhossein-rasouli-%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%D8%B1%D8%B3%D9%88%D9%84%DB%8C-ab0665245/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://twitter.com/AM1R_H3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="https://github.com/AM1RH3" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AM1RH3&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support 
 <a href="https://www.buymeacoffee.com/Am1rH3"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
