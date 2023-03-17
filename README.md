@@ -42,4 +42,3 @@ Programmer & Devloper
 <p>
 <a href="https://idpay.ir/amir82plus"><img src="https://way2pay.ir/wp-content/uploads/IDPay-Logo-Png-Way2pay-96-03-06.png" width="200" /></a>
 </p>
-
