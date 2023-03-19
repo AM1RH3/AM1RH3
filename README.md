@@ -14,11 +14,14 @@ Programmer & Devloper
 ### Skills
 <p align="left">
    <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" width="36" height="36" alt="Dart" /></a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" width="36" height="36" alt="flutter" /></a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="CSharp" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://thumbnail.imgbin.com/0/8/22/imgbin-mysql-database-dump-computer-icons-others-LsV8Kn7NF17as4EFT4e1uYCt6_t.jpg" width="36" height="36" alt="mysql" /></a>
+   
             
    
 </p>
