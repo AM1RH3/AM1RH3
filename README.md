@@ -23,7 +23,7 @@ Programmer & Devloper
  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://thumbnail.imgbin.com/0/8/22/imgbin-mysql-database-dump-computer-icons-others-LsV8Kn7NF17as4EFT4e1uYCt6_t.jpg" width="36" height="36" alt="mysql" /></a>
    
             
-   
+  
 </p>
                     
 ### Socials
