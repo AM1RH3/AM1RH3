@@ -3,14 +3,7 @@ Welcome dude! im Am1rH3 :)
 
 Programmer & Devloper 
 -----------------------------
-<--
-*   🖥️  My personal Website [Am1rH3.ir](https://am1rh3.ir)
 
-<a href="https://https://twitter.com/AM1R_H3" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/Am1rH3?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://https://github.com/AM1RH3" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Am1rH3?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-    --!>              
 ### Skills
 <p align="left">
    <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" width="36" height="36" alt="Dart" /></a>
