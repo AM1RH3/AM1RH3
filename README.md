@@ -71,12 +71,14 @@ Hi👋! im AmirHossein :)
 </p>
 
 <!-- <a href="https://giphy.com/gifs/LmNwrBhejkK9EFP504" target="blank"><img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="200" /></a> -->
+<!--
 <img align="right" alt="" width="300" src="https://tryhackme-images.s3.amazonaws.com/user-avatars/61a7aee5466f2500415ffeeb-1707091688278">
+-->
 
 <!--horizontal divider(gradiant)-->
-<!--
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
--->
+
 <!-- End -->
 
 <div align="center">
