@@ -17,7 +17,7 @@ Hi👋! im AmirHossein :)
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" /> -->
-  <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,c,html,css,py,bootstrap,git,github,docker,mysql,postman,discord,firebase,figma,materialui,md,vscode,linux,&perline=10" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,c,html,css,py,bootstrap,git,github,docker,mysql,postman,wordpress,firebase,figma,materialui,md,vscode,linux,&perline=10" />
   </a>
 </p>
 
