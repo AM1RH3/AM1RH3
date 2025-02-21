@@ -21,10 +21,12 @@ Hi👋! im AmirHossein :)
   </a>
 </p>
 
-                    
-### Socials
-                  
-<p align="left">
+  <div id="Socials">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Socials</h2></summary>
+  </ul>
+</div>                  
+<p align="center">
     <a href="https://www.instagram.com/amirhossein__rasooli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a>
   <a href="https://am1rh3.ir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="40" height="40" /></a>
   <a href="https://www.linkedin.com/in/amirhossein-rasouli-%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86-%D8%B1%D8%B3%D9%88%D9%84%DB%8C-ab0665245/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a>
