@@ -65,12 +65,13 @@ Hi👋! im AmirHossein :)
 
 
 
-
+<!--
 ### Support 
 <a href="https://www.buymeacoffee.com/Am1rH3"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <p>
 <a href="https://idpay.ir/am1rh3"><img align="left"src="https://way2pay.ir/wp-content/uploads/IDPay-Logo-Png-Way2pay-96-03-06.png" width="200" /></a>
-</p>
+</p> 
+-->
 
 <!-- <a href="https://giphy.com/gifs/LmNwrBhejkK9EFP504" target="blank"><img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="200" /></a> -->
 <!--
